@@ -18,9 +18,9 @@ img{
 
 
 #menubar
-{ width: 60%;
+{ width: 80%;
   text-align: center;
-  height: auto;
+  height: 160px;
   padding: 0;
   background: #000000;} 
 
@@ -36,13 +36,12 @@ text-align: center;}
 }
 
 ul#menu li a
-{ letter-spacing: 0.1em;
-  font: normal 50%;
-  display: block; 
-  float: left; 
-  height: 17px;
+{ letter-spacing: 0.2em;
+  font: normal 30%;
+  float: left ; 
+  height: 27px;
   margin: 5px 0 0 5px;
-  padding: 14px 4px 4px 34px;
+  padding: 14px 4px 4px 44px;
   text-align: center;
   color: #FFF;
   text-transform: uppercase;
